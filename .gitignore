@@ -1,0 +1,19 @@
+# Ignore compiled class files
+*.class
+
+# Ignore build output directories
+target/
+bin/
+
+# Ignore IDE files
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Ignore log files
+*.log
+
+# Ignore dependency files
+lib/
+*.jar
